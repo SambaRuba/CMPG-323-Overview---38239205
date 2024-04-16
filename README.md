@@ -1,4 +1,4 @@
-# Module Layout
+# Layout of Module Projects:
 
 ### Repository 1: CMPG 323 Overview - 38239205
 
@@ -24,3 +24,8 @@ Further improvement on the web application from Project 3. Here the aim is to in
 
 This repository is created for project 5:
 Final project that looks to conclude the system development cycle by providing reports about EcoPower Logistics' operational data. Reporting is done through data visualization technologies, such as Power Bi, that uses a given data source.
+
+# Diagram of Relationships Between Module Projects:
+
+![Integration Diagram](https://github.com/SambaRuba/CMPG-323-Overview---38239205/assets/111650084/9fc2a56a-a06c-428b-af36-333afa436dee)
+
