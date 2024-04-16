@@ -25,10 +25,14 @@ Further improvement on the web application from Project 3. Here the aim is to in
 This repository is created for project 5:
 Final project that looks to conclude the system development cycle by providing reports about EcoPower Logistics' operational data. Reporting is done through data visualization technologies, such as Power Bi, that uses a given data source.
 
-# Diagram of Relationships Between Module Projects:
+# Diagram of relationships between module projects:
 
 ![Integration Diagram](https://github.com/SambaRuba/CMPG-323-Overview---38239205/assets/111650084/9fc2a56a-a06c-428b-af36-333afa436dee)
 
-# Branching Strategy Used Within Module Projects:
+# Branching strategy used within module projects:
 
 All module projects will make use of the feature branching strategy. This is a workflow strategy in which new branches are created off of the main branch, and are typically used for specific features or changes in the codebase. Once this "side" branch is completed, it can then be merged back into the main branch via a pull request. This pull request can also be reviewed for any extra modifications or improvements before being merged back into the main branch.
+
+# Purpose of .gitignore file within each module project:
+
+Each module project will make use of a .gitignore file in order to enusre that certain files (creation of temporarily files, compilation of binaries or storage of sensitive information) not tracked by Git remain untracked and not commited to the project repository. 
