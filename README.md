@@ -29,6 +29,6 @@ Final project that looks to conclude the system development cycle by providing r
 
 ![Integration Diagram](https://github.com/SambaRuba/CMPG-323-Overview---38239205/assets/111650084/9fc2a56a-a06c-428b-af36-333afa436dee)
 
-# Branching Strategy Within Module Projects:
+# Branching Strategy Used Within Module Projects:
 
-All module projects will make use of the feature branching strategy. This is a workflow strategy in which new branches are created off of the main branch, and are typically used for specific features or changes in the codebase. Once this "side" branch is completed, it can then be merged back into the main branch via a pull request. The pull request can also be reviewed for any modifications or improvements before being merged into the main branch.
+All module projects will make use of the feature branching strategy. This is a workflow strategy in which new branches are created off of the main branch, and are typically used for specific features or changes in the codebase. Once this "side" branch is completed, it can then be merged back into the main branch via a pull request. This pull request can also be reviewed for any extra modifications or improvements before being merged back into the main branch.
