@@ -35,4 +35,8 @@ All module projects will make use of the feature branching strategy. This is a w
 
 # Purpose of .gitignore file within each module project:
 
-Each module project will make use of a .gitignore file in order to enusre that certain files (creation of temporarily files, compilation of binaries or storage of sensitive information) not tracked by Git remain untracked and not commited to the project repository. 
+Each module project will make use of a .gitignore file in order to enusre that certain files (creation of temporarily files, compilation of binaries or storage of sensitive information) not tracked by Git remain untracked and do not get committed to the project repository.
+
+# Storage of credentials and sensitive information:
+
+Throughout the system development life cycle, it is imperative that each project recognises the need for the safeguarding of and storage of credentials and other sensitive information. In keeping with best practices, each project looks to capitalize on existing GitHub security features (GitHub secrets, encryption and .gitignore files) in catering towards system integrity and security.
