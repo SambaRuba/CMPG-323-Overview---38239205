@@ -45,9 +45,9 @@ Throughout the system development life cycle, it is imperative that each project
 
 Graphical representation measuring the progress of work left to do over time.
 
-Project Breakdown:
-				
-![image](https://github.com/SambaRuba/CMPG-323-Overview---38239205/assets/111650084/f294bf67-d940-4b4f-a2c6-b116b305b7e2)
+Project Breakdown:							
+					
+![image](https://github.com/SambaRuba/CMPG-323-Overview---38239205/assets/111650084/53579bb2-89be-4d8d-9cba-dfa66dc22536)
 
 Project Burndown Chart:
 
