@@ -46,20 +46,6 @@ Throughout the system development life cycle, it is imperative that each project
 Graphical representation measuring the progress of work left to do over time.
 
 Project Breakdown:
-
-Project Break Down				
-				
-Sprint:	Estimated Remaining Project Hours:	Estimated Effort (Hours):	Actual Remaining Project Hours:	Actual Effort (Hours):
-				
-0	560.01	0	554.5	0
-1	558.01	2	552.5	2
-2	485.01	73	477.5	75
-3	483.01	2	476	1.5
-4	322.17	160.84	318	158
-5	247.67	74.5	246	72
-6	244.67	3	242	4
-7	145.5	99.17	145	97
-8	0	145.5	0	145
 				
 ![image](https://github.com/SambaRuba/CMPG-323-Overview---38239205/assets/111650084/f294bf67-d940-4b4f-a2c6-b116b305b7e2)
 
